@@ -1,0 +1,14 @@
+C:\GitHub\Calculator\Calculator.Console\bin\Debug\net8.0\Calculator.Console.exe
+C:\GitHub\Calculator\Calculator.Console\bin\Debug\net8.0\Calculator.Console.deps.json
+C:\GitHub\Calculator\Calculator.Console\bin\Debug\net8.0\Calculator.Console.runtimeconfig.json
+C:\GitHub\Calculator\Calculator.Console\bin\Debug\net8.0\Calculator.Console.dll
+C:\GitHub\Calculator\Calculator.Console\bin\Debug\net8.0\Calculator.Console.pdb
+C:\GitHub\Calculator\Calculator.Console\obj\Debug\net8.0\Calculator.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Calculator\Calculator.Console\obj\Debug\net8.0\Calculator.Console.AssemblyInfoInputs.cache
+C:\GitHub\Calculator\Calculator.Console\obj\Debug\net8.0\Calculator.Console.AssemblyInfo.cs
+C:\GitHub\Calculator\Calculator.Console\obj\Debug\net8.0\Calculator.Console.csproj.CoreCompileInputs.cache
+C:\GitHub\Calculator\Calculator.Console\obj\Debug\net8.0\Calculator.Console.dll
+C:\GitHub\Calculator\Calculator.Console\obj\Debug\net8.0\refint\Calculator.Console.dll
+C:\GitHub\Calculator\Calculator.Console\obj\Debug\net8.0\Calculator.Console.pdb
+C:\GitHub\Calculator\Calculator.Console\obj\Debug\net8.0\Calculator.Console.genruntimeconfig.cache
+C:\GitHub\Calculator\Calculator.Console\obj\Debug\net8.0\ref\Calculator.Console.dll

@@ -1,0 +1,11 @@
+C:\GitHub\Calculator\Calculator.Logic\bin\Debug\net8.0\Calculator.Logic.deps.json
+C:\GitHub\Calculator\Calculator.Logic\bin\Debug\net8.0\Calculator.Logic.dll
+C:\GitHub\Calculator\Calculator.Logic\bin\Debug\net8.0\Calculator.Logic.pdb
+C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\Calculator.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\Calculator.Logic.AssemblyInfoInputs.cache
+C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\Calculator.Logic.AssemblyInfo.cs
+C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\Calculator.Logic.csproj.CoreCompileInputs.cache
+C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\Calculator.Logic.dll
+C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\refint\Calculator.Logic.dll
+C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\Calculator.Logic.pdb
+C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\ref\Calculator.Logic.dll
