@@ -109,3 +109,4 @@ C:\GitHub\Calculator\Calculator.Tests\bin\Debug\net8.0\runtimes\win\lib\netstand
 C:\GitHub\Calculator\Calculator.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Calculator.Tests
 C:\GitHub\Calculator\Calculator.Tests\bin\Debug\net8.0\Calculator.Logic.dll
 C:\GitHub\Calculator\Calculator.Tests\bin\Debug\net8.0\Calculator.Logic.pdb
+C:\GitHub\Calculator\Calculator.Tests\obj\Debug\net8.0\Calculator.Tests.sourcelink.json

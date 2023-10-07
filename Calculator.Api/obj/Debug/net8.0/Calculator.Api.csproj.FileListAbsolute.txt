@@ -33,3 +33,4 @@ C:\GitHub\Calculator\Calculator.Api\obj\Debug\net8.0\Calculator.Api.genruntimeco
 C:\GitHub\Calculator\Calculator.Api\obj\Debug\net8.0\ref\Calculator.Api.dll
 C:\GitHub\Calculator\Calculator.Api\bin\Debug\net8.0\Calculator.Logic.dll
 C:\GitHub\Calculator\Calculator.Api\bin\Debug\net8.0\Calculator.Logic.pdb
+C:\GitHub\Calculator\Calculator.Api\obj\Debug\net8.0\Calculator.Api.sourcelink.json

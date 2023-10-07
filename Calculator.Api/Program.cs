@@ -24,7 +24,7 @@ app.MapGet("/{equation}", (string? equation) =>
 {
     equation = equation.ToValidEquation();
     
-    if (!EquationValidator.IsEquationValid(equation))
+    if (!EquationValidator.IsValid(equation))
         return Results.BadRequest("Please provide a valid equation...");
 
     var currentValue = calculatedValue;

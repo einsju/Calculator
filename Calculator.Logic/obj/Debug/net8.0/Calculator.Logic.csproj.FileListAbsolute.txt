@@ -9,3 +9,4 @@ C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\Calculator.Logic.dll
 C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\refint\Calculator.Logic.dll
 C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\Calculator.Logic.pdb
 C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\ref\Calculator.Logic.dll
+C:\GitHub\Calculator\Calculator.Logic\obj\Debug\net8.0\Calculator.Logic.sourcelink.json

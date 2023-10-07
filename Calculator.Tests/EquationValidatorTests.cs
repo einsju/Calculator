@@ -10,7 +10,7 @@ public class EquationValidatorTests
     {
         string? equation = null;
         
-        var result = EquationValidator.IsEquationValid(equation);
+        var result = EquationValidator.IsValid(equation);
 
         result.Should().BeFalse();
     }
@@ -20,7 +20,7 @@ public class EquationValidatorTests
     {
         const string equation = " ";
         
-        var result = EquationValidator.IsEquationValid(equation);
+        var result = EquationValidator.IsValid(equation);
         
         result.Should().BeFalse();
     }
@@ -34,7 +34,7 @@ public class EquationValidatorTests
     [InlineData("10 + 1 -10 * 10 / 2")]
     void IsEquationValid_ShouldReturnTrue_WhenEquationIsValid(string equation)
     {
-        var result = EquationValidator.IsEquationValid(equation);
+        var result = EquationValidator.IsValid(equation);
         
         result.Should().BeTrue();
     }
@@ -45,7 +45,7 @@ public class EquationValidatorTests
     [InlineData("10 / d - 10")]
     void IsEquationValid_ShouldReturnFalse_WhenEquationIsNotValid(string equation)
     {
-        var result = EquationValidator.IsEquationValid(equation);
+        var result = EquationValidator.IsValid(equation);
         
         result.Should().BeFalse();
     }
@@ -57,7 +57,7 @@ public class EquationValidatorTests
     [InlineData("/0")]
     void IsEquationValid_ShouldReturnFalse_WhenEquationContainsZeroDivision(string equation)
     {
-        var result = EquationValidator.IsEquationValid(equation);
+        var result = EquationValidator.IsValid(equation);
         
         result.Should().BeFalse();
     }

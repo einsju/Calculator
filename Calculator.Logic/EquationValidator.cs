@@ -9,7 +9,7 @@ public static partial class EquationValidator
     [GeneratedRegex(@"^([-+/*()]|\d)+$")]
     private static partial Regex ValidEquationRegex();
 
-    public static bool IsEquationValid(string? equation)
+    public static bool IsValid(string? equation)
     {
         if (string.IsNullOrWhiteSpace(equation)) return false;
 
