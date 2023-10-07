@@ -1,0 +1,137 @@
+# .NET
+## Visual Studio Code ##
+.vscode
+
+## Rider ##
+.idea
+
+## User-specific files ##
+*.suo
+*.user
+*.sln.docstates
+
+## User-specific files (MonoDevelop/Xamarin Studio) ##
+*.userprefs
+
+## Mono Auto Generated Files ##
+mono_crash.*
+
+## Windows image file caches ##
+Thumbs.db
+ehthumbs.db
+
+## Folder config file ##
+Desktop.ini
+
+## Recycle Bin used on file shares ##
+$RECYCLE.BIN/
+
+## VS Code ###
+.vscode/
+
+## Visual Studio 2019 ##
+# .vs2019/
+_ReSharper.*/
+
+## Rider ##
+.idea/
+.idea/
+
+## User-specific files ##
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## User-specific files (MonoDevelop/Xamarin Studio) ##
+*.userprefs
+
+## Mono Auto Generated Files ##
+mono_crash.*
+
+## Windows image file caches ##
+Thumbs.db
+ehthumbs.db
+
+## Folder config file ##
+Desktop.ini
+
+## Recycle Bin used on file shares ##
+$RECYCLE.BIN/
+
+## VS Code ###
+.vscode/
+
+## Visual Studio 2019 ##
+# .vs2019/
+_ReSharper.*/
+
+## Rider ##
+.idea/
+
+## User-specific files ##
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## User-specific files (MonoDevelop/Xamarin Studio) ##
+*.userprefs
+
+## Mono Auto Generated Files ##
+mono_crash.*
+__history/
+logs/
+savedreports/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+__history/
+logs/
+savedreports/
+
+# .NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# Visual Studio 2019
+# .vs2019/
+_ReSharper.*/
+**/.vs2019/
